@@ -7,7 +7,7 @@ public class PlayerAction : MonoBehaviour {
 	public Transform firePoint;
 	public float projectileSpeed = 20f;
 
-	private bool hookBlocked = false;
+	public static bool hookBlocked = false;
 
 	void Start () {
 
@@ -15,7 +15,6 @@ public class PlayerAction : MonoBehaviour {
 			Debug.Log ("hookMotion object is not set");
 			Debug.Break ();
 		}
-		
 	}
 
 	void Update () 
