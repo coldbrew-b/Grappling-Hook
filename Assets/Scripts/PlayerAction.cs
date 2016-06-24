@@ -1,13 +1,18 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityStandardAssets.Characters.FirstPerson;
 
 public class PlayerAction : MonoBehaviour {
 
 	public GameObject hookShot;
 	public Transform firePoint;
 	public float projectileSpeed = 20f;
-
 	public static bool hookBlocked = false;
+	public MouseLook mouseLookXCam;
+	public GameObject debug;
+
+
+	private Rigidbody playerRb;
 
 	void Start () {}
 
@@ -24,4 +29,5 @@ public class PlayerAction : MonoBehaviour {
 		Physics.IgnoreCollision (GetComponent <Collider>(), hook.GetComponent <Collider>());
 		hook.GetComponent <Rigidbody>().velocity = Camera.main.transform.forward * projectileSpeed;
 	}
+
 }

@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\HookShot.cs" />
      <Compile Include="Assets\Scripts\PlayerAction.cs" />
      <Compile Include="Assets\Scripts\RigidbodyFirstPersonController.cs" />
+     <Compile Include="Assets\Scripts\Test.cs" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
