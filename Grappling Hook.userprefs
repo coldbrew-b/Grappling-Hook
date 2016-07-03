@@ -1,25 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RigidbodyFirstPersonController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HookShot.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerAction.cs" Line="22" Column="16" />
-      <File FileName="Assets\Scripts\HookShot.cs" Line="48" Column="5" />
-      <File FileName="Assets\Scripts\HeadBob.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\RigidbodyFirstPersonController.cs" Line="257" Column="4" />
-      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" Line="15" Column="28" />
-      <File FileName="Assets\Scripts\Test.cs" Line="9" Column="88" />
+      <File FileName="Assets\Scripts\HookShot.cs" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\PlayerAction.cs" Line="24" Column="19" />
+      <File FileName="Assets\Scripts\RigidbodyFirstPersonController.cs" Line="73" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <RunToCursorBreakpoint file="C:\Users\Brandon\Documents\Unity\Grappling Hook\Assets\Scripts\PlayerAction.cs" line="71" column="33" />
-      <RunToCursorBreakpoint file="C:\Users\Brandon\Documents\Unity\Grappling Hook\Assets\Scripts\PlayerAction.cs" line="72" column="35" />
-      <RunToCursorBreakpoint file="C:\Users\Brandon\Documents\Unity\Grappling Hook\Assets\Scripts\PlayerAction.cs" line="71" column="33" />
-      <RunToCursorBreakpoint file="C:\Users\Brandon\Documents\Unity\Grappling Hook\Assets\Scripts\RigidbodyFirstPersonController.cs" line="277" column="17" />
-      <RunToCursorBreakpoint file="C:\Users\Brandon\Documents\Unity\Grappling Hook\Assets\Scripts\RigidbodyFirstPersonController.cs" line="278" column="25" />
-      <RunToCursorBreakpoint file="C:\Users\Brandon\Documents\Unity\Grappling Hook\Assets\Scripts\RigidbodyFirstPersonController.cs" line="277" column="34" />
-      <RunToCursorBreakpoint file="C:\Users\Brandon\Documents\Unity\Grappling Hook\Assets\Scripts\RigidbodyFirstPersonController.cs" line="327" column="57" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
